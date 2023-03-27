@@ -1,5 +1,4 @@
 from itertools import chain
-from time import sleep
 from basecampy3.endpoints import Comments
 from datetime import datetime
 from dateutil import parser

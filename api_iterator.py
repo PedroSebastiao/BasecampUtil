@@ -1,4 +1,5 @@
 from basecampy3.exc import Basecamp3Error
+from time import sleep
 
 class BasecampAPIIterator(object):
     def __init__(self, iterable):
