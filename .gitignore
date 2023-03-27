@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.conda/
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +128,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# local basecamp configuration with secrets
+basecamp.conf
+
+# macOS
+.DS_Store
